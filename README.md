@@ -1,5 +1,3 @@
----
-
 # TODO App
 
 A simple and user-friendly TODO application that allows users to add, view, and manage their tasks efficiently. The app uses local storage to save tasks, ensuring that your list is available even after refreshing the page.
@@ -63,5 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the YouTube videos that helped guide me in creating this project.
 
 **Live Demo**: [TODO App](https://priyanshu-priya.github.io/TODO-APP/)
-
----
