@@ -17,6 +17,12 @@ A simple and user-friendly TODO application that allows users to add, view, and 
 - CSS
 - JavaScript
 
+  
+## Live Demo
+
+You can view the live version of the app [here](https://priyanshu-priya.github.io/TODO-APP/).
+
+
 ## Getting Started
 
 To get a local copy of this project up and running, follow these simple steps:
